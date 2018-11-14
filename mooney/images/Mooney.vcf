@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.13.6//EN
+N:Mooney;Tim;;;
+FN:Tim Mooney
+ORG:Douglas Elliman;
+EMAIL;type=INTERNET;type=pref:mooneyaspen@elliman.com
+TEL;type=WORK;type=VOICE;type=pref:970.925.8810
+TEL;type=WORK;type=FAX:970.925.8821
+TEL;type=CELL;type=VOICE:970.948.9400
+ADR;type=WORK;type=pref:;;Douglas Elliman\n630 East Hyman Avenue;Aspen;CO;81611;United States of America
+NOTE:Douglas Elliman\nhttp://www.elliman.com\n
+URL;type=WORK;type=pref:http://elliman.com/real-estate-agent/tim-mooney/21273
+UID:5fe0379d-ca8b-48ba-b00f-f8e6dd8c184d
+X-ABUID:E0458F95-3DDC-4FE8-A567-672644D669B9:ABPerson
+LABEL;WORK;ENCODING=QUOTED-PRINTABLE:Douglas Elliman=0D=0A630 East Hyman Avenue=0D=0AAspen, CO 81611=0D=0AUnited States of America
+END:VCARD
